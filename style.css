@@ -320,7 +320,9 @@ section{
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
+    width: 100%;
     margin-top: 20px;
+    margin-left: -10px;
 }
 
 .title p{
